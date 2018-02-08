@@ -1,0 +1,21 @@
+S-S Graph
+
+S1 S3
+S1 S4
+S1 S5
+S3 S1
+S3 S4
+S3 S5
+S4 S1
+S4 S3
+S4 S5
+S5 S1
+S5 S3
+S5 S4
+
+P-P Graph
+
+P1 P2
+P1 P3
+P2 P1
+P3 P1
